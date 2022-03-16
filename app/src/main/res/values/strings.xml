@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Emojinomoto</string>
+    <string name="result_win">You Win!</string>
+    <string name="result_lose">You Lose!</string>
+    <string name="description_win">Amazing Goodjob!!</string>
+    <string name="description_lose">Try Again!!</string>
+    <string name="try_again">Thử lại</string>
+</resources>

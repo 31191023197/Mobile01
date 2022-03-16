@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mobile01.iml" filepath="$PROJECT_DIR$/.idea/modules/Mobile01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SelectEmoji.iml" filepath="$PROJECT_DIR$/.idea/modules/SelectEmoji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SelectEmoji.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SelectEmoji.app.iml" />
     </modules>
   </component>
 </project>
